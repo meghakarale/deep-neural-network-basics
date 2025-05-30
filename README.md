@@ -42,5 +42,4 @@ We use the **MNIST dataset** of handwritten digits to demonstrate:
 
 **Megha S Karale**  
 Corporate Trainer | Consultant | AI/ML Educator  
-📧 your.email@example.com  
-🔗 [linkedin.com/in/meghaskarale](https://linkedin.com/in/meghaskarale)
+[linkedin.com/in/meghaskarale](https://linkedin.com/in/meghaskarale)
